@@ -14,7 +14,9 @@ This project involves using a pre-trained image classifier in Python to determin
 Utilize Python skills to determine the most effective image classification algorithm for distinguishing between images of dogs and those of other pets.
 **Classify Dog Breeds:**
 Evaluate the classifier's performance in correctly identifying the breed of dogs from the images submitted.
+
 **Evaluate CNN Architectures:** Compare the performance of AlexNet, VGG, and ResNet architectures to determine which one best meets the project's objectives.
+
 **Optimize for Time:** Consider the computational time required by each algorithm and assess whether a slightly less accurate but faster solution might be preferable depending on the context.
 
 **Important Notes**
@@ -25,7 +27,10 @@ Similar-looking dog breeds pose challenges; the classifier may struggle with fin
 
 **Principal Objectives**
 
-**Identification:** Accurately determine if images depict dogs or other animals.
+**Identification:** Accurately determine if images depict dogs or other animals. 
+
 **Breed Classification:** Correctly classify the breed of dogs shown in images.
+
 **Optimal CNN Selection:** Assess which CNN architecture (AlexNet, VGG, or ResNet) best fulfills the identification and classification objectives.
+
 **Time Efficiency:** Balance accuracy against computational efficiency to determine the most suitable solution for the task.
