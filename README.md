@@ -1,6 +1,7 @@
 # Pre-trained-Image-Classifier
 
 **Project Goal**
+
 The primary objective of this project is to enhance programming skills using Python by implementing an image classifier to identify dog breeds. Participants in a citywide dog show will submit images of their dogs along with biographical information. The classifier's task is to verify if the submitted images are of dogs and correctly classify the breed if applicable.
 
 **Description**
@@ -20,6 +21,7 @@ The provided classifier function (classifier.py) supports the implementation of 
 Similar-looking dog breeds pose challenges; the classifier may struggle with fine distinctions between breeds like Great Pyrenees and Kuvasz.
 
 **Principal Objectives**
+
 **Identification:** Accurately determine if images depict dogs or other animals.
 **Breed Classification:** Correctly classify the breed of dogs shown in images.
 **Optimal CNN Selection:**Assess which CNN architecture (AlexNet, VGG, or ResNet) best fulfills the identification and classification objectives.
