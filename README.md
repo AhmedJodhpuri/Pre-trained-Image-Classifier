@@ -6,10 +6,12 @@ The primary objective of this project is to enhance programming skills using Pyt
 This project involves using a pre-trained image classifier in Python to determine whether submitted images are of dogs or other pets. The classifier utilizes convolutional neural networks (CNNs), specifically AlexNet, VGG, and ResNet architectures, pretrained on the ImageNet dataset.
 
 **Tasks**
-Identify Dogs: Utilize Python skills to determine the most effective image classification algorithm for distinguishing between images of dogs and those of other pets.
-Classify Dog Breeds: Evaluate the classifier's performance in correctly identifying the breed of dogs from the images submitted.
-Evaluate CNN Architectures: Compare the performance of AlexNet, VGG, and ResNet architectures to determine which one best meets the project's objectives.
-Optimize for Time: Consider the computational time required by each algorithm and assess whether a slightly less accurate but faster solution might be preferable depending on the context.
+
+**Identify Dogs:** Utilize Python skills to determine the most effective image classification algorithm for distinguishing between images of dogs and those of other pets.
+**Classify Dog Breeds:** Evaluate the classifier's performance in correctly identifying the breed of dogs from the images submitted.
+**Evaluate CNN Architectures:** Compare the performance of AlexNet, VGG, and ResNet architectures to determine which one best meets the project's objectives.
+**Optimize for Time:** Consider the computational time required by each algorithm and assess whether a slightly less accurate but faster solution might be preferable depending on the context.
+
 **Important Notes**
 The project utilizes CNNs, which excel in image classification tasks by recognizing patterns and features in images.
 The provided classifier function (classifier.py) supports the implementation of AlexNet, VGG, and ResNet for image classification.
